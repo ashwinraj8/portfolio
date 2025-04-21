@@ -34,7 +34,7 @@
     {
       "name": "ECommerce App",
       "detail": "This is a short description of the product. Highlight its features and benefits to attract customers.",
-      "url": "xyz.com",
+      "url": "https://github.com/ashwinraj8/portfolio/blob/main/assets/portfolio_2.jpg?raw=true",
       "tech": [
         "Angular",
         "NodeJS"
@@ -43,7 +43,7 @@
     {
       "name": "Inventory App",
       "detail": "This is a short description of the product. Highlight its features and benefits to attract customers.",
-      "url": "xyz.com",
+      "url": "https://github.com/ashwinraj8/portfolio/blob/main/portfolio_1.jpg?raw=true",
       "tech": [
         "Angular",
         "DotNet",
@@ -53,7 +53,7 @@
     {
       "name": "Portfolio App",
       "detail": "This is a short description of the product. Highlight its features and benefits to attract customers.",
-      "url": "xyz.com",
+      "url": "https://github.com/ashwinraj8/portfolio/blob/main/assets/portfolio_2.jpg?raw=true",
       "tech": [
         "React",
         "NodeJS",
