@@ -6,28 +6,32 @@
   },
   "skills": [
     {
-      "name": "Angular",
-      "exp": 10
-    },
-    {
       "name": "React",
-      "exp": 5
+      "exp": 4
+    },
+	{
+      "name": "Angular",
+      "exp": 2
     },
     {
       "name": "NodeJS",
+      "exp": 4
+    },
+	{
+      "name": "HTML/CSS",
       "exp": 5
     },
-    {
-      "name": "DotNet",
-      "exp": 10
+	{
+      "name": "Python",
+      "exp": 2
     },
-    {
-      "name": "HTML/CSS",
-      "exp": 10
+	 {
+      "name": "JAVA",
+      "exp": 2
     },
     {
       "name": "SQL",
-      "exp": 8
+      "exp": 1
     }
   ],
     "companies": [
