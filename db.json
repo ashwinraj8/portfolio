@@ -30,14 +30,32 @@
       "exp": 8
     }
   ],
+    "companies": [
+      {
+        "name": "CITI Bank",
+        "detail": "I am working as a fullstack developer",
+        "tech": ["Angular", "Openshift", "Java"]
+      },
+      {
+        "name": "Accenture",
+        "detail": "I worked as a frontend developer",
+        "tech": ["ReactJs", "NextJs", "Azure"]
+      },
+      {
+        "name": "TCS",
+        "detail": "I am working as a frontend developer",
+        "tech": ["React", "Javascript"]
+      }
+    ],
   "projects": [
     {
-      "name": "ECommerce App",
-      "detail": "This is a short description of the product. Highlight its features and benefits to attract customers.",
+      "name": "CITI Bank",
+      "detail": "I am working as a fullstack developer",
       "url": "https://github.com/ashwinraj8/portfolio/blob/main/assets/portfolio_2.jpg?raw=true",
       "tech": [
         "Angular",
-        "NodeJS"
+        "Openshift",
+        "Java"
       ]
     },
     {
